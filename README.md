@@ -1,4 +1,4 @@
-# Dino Jump Game
+# Dino Game
 
 A simple 2D game built with Pygame where the player controls a dinosaur that must jump and crouch to avoid obstacles. The game features scrolling ground, animated sprites, and increasing difficulty as the score goes up.
 
@@ -15,8 +15,8 @@ A simple 2D game built with Pygame where the player controls a dinosaur that mus
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/dino-jump-game.git
-    cd dino-jump-game
+    git clone https://github.com/techiuv/dino-pyhon-game.git
+    cd dino-python-game
     ```
 
 2. **Install Pygame:**
@@ -48,7 +48,7 @@ A simple 2D game built with Pygame where the player controls a dinosaur that mus
     Execute the game script using Python:
 
     ```bash
-    python game.py
+    python main.py
     ```
 
 ## Controls
@@ -59,10 +59,6 @@ A simple 2D game built with Pygame where the player controls a dinosaur that mus
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. If you find any issues or have suggestions for improvements, please open an issue on the GitHub repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 

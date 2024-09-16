@@ -53,7 +53,8 @@ A simple 2D game built with Pygame where the player controls a dinosaur that mus
 
 ## Controls
 
-- **Spacebar:** Jump/Crouch
+- **Spacebar:** Jump
+- **Arrow Down:** Crouch 
 - **Restart:** Spacebar when game over
 
 ## Contributing
